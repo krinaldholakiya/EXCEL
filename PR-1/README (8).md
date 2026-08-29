@@ -316,10 +316,10 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Your Name
+### KRINAL DHOLAKIYA
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourhandle/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-krinaldholakiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krinaldholakiya)
 
 > *"Every insight starts with a single formula — just like every workbook starts with a single cell."*
 
@@ -349,6 +349,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and 📊 — Last updated: 29 August, 2026*
+*Made with ❤️ — Last updated: 29 August, 2026*
 
 </div>
