@@ -332,7 +332,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Krinal
+### Krinal Dholakiya
 
 [![Excel](https://img.shields.io/badge/Made%20with-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 
